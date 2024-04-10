@@ -1,0 +1,90 @@
+ID du Ticket: 98c11e0eb8aa4efc8203, Numéros: [33, 2, 20, 55, 13], Categorie: 2
+ID du Ticket: ed849d5b44b04795844a, Numéros: [1, 5, 55, 59, 28], Categorie: 1
+ID du Ticket: b462b65abd8e4ebf85fb, Numéros: [21, 70, 57, 43, 77], Categorie: 1
+ID du Ticket: 404fb6714f9e4fb0ba3d, Numéros: [2, 53, 6, 62, 15], Categorie: 1
+ID du Ticket: fcdea38007a8479bb128, Numéros: [86, 39, 40, 12, 45], Categorie: 1
+ID du Ticket: 22eb88e36c994ab99ad4, Numéros: [83, 36, 85, 7, 12], Categorie: 1
+ID du Ticket: 37cd455ec77f4e57a0a9, Numéros: [34, 69, 53, 62, 14], Categorie: 1
+ID du Ticket: f725422a00ed4b4e9ea8, Numéros: [50, 5, 61, 13, 46], Categorie: 1
+ID du Ticket: f42368084960455b9974, Numéros: [64, 49, 33, 90, 61], Categorie: 1
+ID du Ticket: ad3434adf85c4baba879, Numéros: [19, 67, 69, 5, 54], Categorie: 1
+ID du Ticket: 05d2bbf893894807b381, Numéros: [39, 42, 26, 12, 44], Categorie: 1
+ID du Ticket: 6a00dd5099a6491c97da, Numéros: [53, 70, 39, 60, 79], Categorie: 1
+ID du Ticket: 7b93f7f4327f43faa25c, Numéros: [64, 55, 41, 42, 47], Categorie: 1
+ID du Ticket: 5c1de522060c4118aad5, Numéros: [65, 5, 21, 9, 47], Categorie: 1
+ID du Ticket: daa6e21c9d16408c83f0, Numéros: [37, 86, 8, 26, 61], Categorie: 1
+ID du Ticket: 360e9fbb34a1430a9f4b, Numéros: [33, 20, 22, 11, 45], Categorie: 2
+ID du Ticket: b6d4bc5735404d2a894c, Numéros: [68, 8, 74, 78, 63], Categorie: 1
+ID du Ticket: b141b028126a4f9497db, Numéros: [4, 86, 70, 55, 25], Categorie: 1
+ID du Ticket: eef67721734d4a7dbdc3, Numéros: [16, 84, 27, 11, 47], Categorie: 1
+ID du Ticket: 0e5c6498f0a64dbf9636, Numéros: [32, 17, 44, 62, 47], Categorie: 1
+ID du Ticket: d74c9ca6e7f0478690e7, Numéros: [84, 52, 21, 71, 56], Categorie: 1
+ID du Ticket: e4c7aed6cd6b445c80e8, Numéros: [41, 57, 44, 77, 63], Categorie: 1
+ID du Ticket: d8e5d4d2c8b3433ab21b, Numéros: [3, 19, 39, 73, 45], Categorie: 1
+ID du Ticket: d25738ebb3eb40d2aa2f, Numéros: [4, 5, 40, 89, 31], Categorie: 1
+ID du Ticket: 3b205300a1954b60bc48, Numéros: [80, 81, 20, 37, 89], Categorie: 1
+ID du Ticket: 6f729ae99b9348b88e42, Numéros: [18, 22, 41, 89, 59], Categorie: 1
+ID du Ticket: 10210cee428a492ca676, Numéros: [2, 71, 41, 28, 79], Categorie: 1
+ID du Ticket: 6b3ca691e5ce4256a0d3, Numéros: [16, 64, 52, 71, 23], Categorie: 1
+ID du Ticket: 69bb4f73f47a4a34b0fc, Numéros: [18, 19, 27, 29, 45], Categorie: 1
+ID du Ticket: fda4928063b44b40877e, Numéros: [80, 49, 7, 8, 25], Categorie: 1
+ID du Ticket: 24881d739bd34ea398f2, Numéros: [16, 82, 35, 90, 12], Categorie: 1
+ID du Ticket: 2a16cc0af0aa4343868c, Numéros: [1, 84, 45, 29, 46], Categorie: 1
+ID du Ticket: 352559e6138b4720bc9d, Numéros: [82, 2, 28, 78, 63], Categorie: 1
+ID du Ticket: ac62863a25f44fb0b829, Numéros: [48, 18, 38, 55, 40], Categorie: 1
+ID du Ticket: f41a677e098e4e828ccc, Numéros: [18, 68, 39, 13, 61], Categorie: 1
+ID du Ticket: 2450f26055f44d21b388, Numéros: [5, 25, 59, 28, 14], Categorie: 1
+ID du Ticket---> 6fe120c784ed4de6b862, Numéros ---> [16, 55, 56, 26, 31], Categorie---> 1
+ID du Ticket---> afa144bb19e84fbfa530, Numéros ---> [51, 5, 71, 88, 44], Categorie---> 1
+ID du Ticket---> 8dbe6efe57de472da441, Numéros ---> [50, 20, 21, 59, 44], Categorie---> 1
+ID du Ticket---> b6d8a3f5a74742c69a0b, Numéros ---> [1, 35, 88, 27, 47], Categorie---> 1
+ID du Ticket---> 130a2b24324b4b8da3bd, Numéros ---> [16, 49, 81, 74, 43], Categorie---> 1
+ID du Ticket---> 8452639134084cad8d23, Numéros ---> [3, 70, 27, 59, 30], Categorie---> 1
+ID du Ticket---> 711c950dd22f466ea332, Numéros ---> [53, 7, 56, 43, 59], Categorie---> 1
+ID du Ticket---> a44ea05db81446249ccd, Numéros ---> [53, 87, 88, 10, 74], Categorie---> 1
+ID du Ticket---> cbb599e249bf4c64a43e, Numéros ---> [1, 5, 69, 90, 45], Categorie---> 1
+ID du Ticket---> 03227c024d004729ae52, Numéros ---> [55, 26, 75, 76, 63], Categorie---> 1
+ID du Ticket---> 2afb578a73bb4e9f80ab, Numéros ---> [65, 54, 7, 90, 63], Categorie---> 1
+ID du Ticket---> fec994c82e7d4cd8addc, Numéros ---> [82, 89, 60, 61, 78], Categorie---> 1
+ID du Ticket---> 7f6fc6cb650545e9a76d, Numéros ---> [20, 23, 24, 25, 11], Categorie---> 2
+ID du Ticket---> 06a1433a7ad246d19620, Numéros ---> [16, 3, 85, 25, 30], Categorie---> 1
+ID du Ticket---> 72fd53ad2e6b48178d69, Numéros ---> [82, 51, 54, 90, 27], Categorie---> 1
+ID du Ticket---> 91b4925fe2874d68b76c, Numéros ---> [1, 51, 68, 56, 79], Categorie---> 1
+ID du Ticket---> f72041bc59534f79a66e, Numéros ---> [16, 6, 74, 75, 14], Categorie---> 1
+ID du Ticket---> d4675e952f7044ffbc55, Numéros ---> [33, 20, 55, 11, 44], Categorie---> 2
+ID du Ticket---> 796b95cd75204e11ab02, Numéros ---> [19, 68, 21, 37, 30], Categorie---> 1
+ID du Ticket---> ca5f2c190f7f41b184c1, Numéros ---> [80, 33, 53, 78, 15], Categorie---> 1
+ID du Ticket---> fcaba8641c8c45158c5b, Numéros ---> [67, 51, 37, 40, 47], Categorie---> 1
+ID du Ticket---> dc90efa03ed14f3ca5d4, Numéros ---> [69, 55, 60, 77, 29], Categorie---> 1
+ID du Ticket---> 015f76d33ef34335a8bd, Numéros ---> [52, 85, 60, 61, 46], Categorie---> 1
+ID du Ticket---> 3c30b35029fd4a03bf37, Numéros ---> [17, 83, 9, 58, 46], Categorie---> 1
+ID du Ticket---> 576d49dc49be4f80a205, Numéros ---> [3, 21, 88, 8, 56], Categorie---> 1
+ID du Ticket---> ac5348bd933c4a9f84d8, Numéros ---> [17, 18, 24, 73, 61], Categorie---> 1
+ID du Ticket---> 24fdcd5ac8f54e2c84c3, Numéros ---> [81, 20, 53, 72, 9], Categorie---> 1
+ID du Ticket---> b02d537da4bc49b38e8b, Numéros ---> [32, 80, 4, 21, 13], Categorie---> 1
+ID du Ticket---> a7307c5aba28419aa0c8, Numéros ---> [23, 87, 40, 56, 43], Categorie---> 1
+ID du Ticket---> abdad745f2e54f3fb436, Numéros ---> [5, 87, 40, 59, 28], Categorie---> 1
+ID du Ticket---> 33f53cde2523473398a9, Numéros ---> [33, 69, 55, 88, 43], Categorie---> 1
+ID du Ticket---> 1dc2fb25faea42f69a3b, Numéros ---> [51, 58, 75, 76, 14], Categorie---> 1
+ID du Ticket---> 52c2aae8d18a424ab083, Numéros ---> [82, 35, 85, 55, 76], Categorie---> 1
+ID du Ticket---> f9cfb2ff5ccb44e9ad23, Numéros ---> [21, 85, 86, 8, 57], Categorie---> 1
+ID du Ticket---> 43cada34d9cf4328b17c, Numéros ---> [48, 7, 71, 25, 62], Categorie---> 1
+ID du Ticket---> 550a8224f9cd44d2a978, Numéros ---> [65, 5, 61, 78, 30], Categorie---> 1
+ID du Ticket---> ca03aa5e89dd489ea1b0, Numéros ---> [81, 1, 21, 87, 79], Categorie---> 1
+ID du Ticket---> f80d61b0f1f845e5800c, Numéros ---> [81, 3, 67, 83, 31], Categorie---> 1
+ID du Ticket---> 223ab4740c10487a9cf2, Numéros ---> [16, 81, 2, 3, 85], Categorie---> 1
+ID du Ticket---> ccbbbe6942624f0ba72c, Numéros ---> [33, 83, 4, 40, 24], Categorie---> 1
+ID du Ticket---> d05e9471c6214063adad, Numéros ---> [49, 17, 34, 52, 45], Categorie---> 1
+ID du Ticket---> 9bbf663ac04c4cf6beeb, Numéros ---> [33, 22, 55, 11, 44], Categorie---> 2
+ID du Ticket---> 7d9474f3d03341fb95ea, Numéros ---> [16, 53, 21, 74, 63], Categorie---> 1
+ID du Ticket---> 120083c7ae8b4c2cbf33, Numéros ---> [80, 84, 62, 14, 30], Categorie---> 1
+ID du Ticket---> 0471d5a4f2f74df5993d, Numéros ---> [17, 18, 51, 52, 6], Categorie---> 1
+ID du Ticket---> 057cdf8538ce466082ad, Numéros ---> [16, 51, 68, 60, 15], Categorie---> 1
+ID du Ticket---> 9e0c311f9baf4ebfa771, Numéros ---> [3, 84, 38, 11, 46], Categorie---> 1
+ID du Ticket---> 093334a77c544015b12e, Numéros ---> [18, 35, 23, 73, 77], Categorie---> 1
+ID du Ticket---> b7b357d6ad9d49e0bc39, Numéros ---> [50, 66, 83, 41, 77], Categorie---> 1
+ID du Ticket---> 9f5e3d597ea340499fa6, Numéros ---> [2, 68, 55, 9, 11], Categorie---> 1
+ID du Ticket---> 6be3a97746bc4100938c, Numéros ---> [70, 23, 72, 28, 63], Categorie---> 1
+ID du Ticket---> cc33015000a24a5c8c37, Numéros ---> [32, 54, 40, 24, 41], Categorie---> 1
+ID du Ticket---> b3984e67a77546db861d, Numéros ---> [17, 19, 21, 72, 61], Categorie---> 1
+ID du Ticket---> 7bc306ff3acd44f5a330, Numéros ---> [3, 84, 69, 70, 41], Categorie---> 1
